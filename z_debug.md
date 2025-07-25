@@ -23,7 +23,6 @@ export EXP_RESULT_ROOT_PATH="~/projects/LoongServe/exp_result"
 python test/longserve/1-benchmark-identical-req.py longserve-ae-figure2
 ```
 
-
 ## debug on VScode
 
 ### 单节点调试
